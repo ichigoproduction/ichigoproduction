@@ -8,12 +8,6 @@
     <img src="https://skillicons.dev/icons?i=py,java,c,cpp,cs" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,blender,figma" />
-  </a>
-</p>
-
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
