@@ -7,6 +7,6 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,pr,ae,ai,github" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,pr,ae,ai" />
   </a>
 </p>
