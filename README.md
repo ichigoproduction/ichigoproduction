@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,c,cs,cpp" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,c,cpp,cs" />
   </a>
 </p>
 <p align="center">
