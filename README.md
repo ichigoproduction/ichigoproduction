@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,idea,github" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,pr,ae,ai,github" />
   </a>
 </p>
