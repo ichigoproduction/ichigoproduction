@@ -7,6 +7,6 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,idea,py,java,kotlin&theme=light" />
+    <img src="https://skillicons.dev/icons?i=pycharm,idea,py,java,kotlin" />
   </a>
 </p>
