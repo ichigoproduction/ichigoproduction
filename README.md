@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,c,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=pycharm,idea,vscode,visualstudio,unity" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,idea,py,java,unity" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,cs" />
   </a>
 </p>
