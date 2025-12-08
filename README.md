@@ -24,6 +24,4 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ichigoproduction/ichigoproduction/output/pacman-contribution-graph.svg">
 </picture>
 
-_Generated with [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)_
-
 
